@@ -38,7 +38,8 @@ The parameters are as follows:
 - `kernel_delta`(int): Parameter of integrating spatial correlation (kernel_delta = K_size x K_size - P_num)
 - `path_of_save_folder`(str): Path of save folder.
 <br>
-**Dilate each cluster**
+
+**Dilate each cluster**  
 - `path_of_save_folder`(str): Path of save folder.
 - `load_folder`(str): Path of load folder.
 
