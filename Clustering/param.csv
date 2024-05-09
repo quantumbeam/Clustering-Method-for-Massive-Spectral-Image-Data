@@ -1,0 +1,2 @@
+,kernel_size,kernel_delta,path_of_experiment_data,path_of_voronoi_points,path_of_save_folder
+0,5,2,../Data/Sample/SyntheticData.tif,../Data/VoronoiPoints/NIMS_Standard_mixed_20221018_2p326_addspectrum_reduce3p719_addlabel.csv,../Data/Sample/SyntheticData_ClusteringResult
