@@ -129,7 +129,7 @@ end
 function Reduce_cluster(img::Matrix{Float64}, max_cluster_num::Int64, kernel::Matrix{Float64}, kernel_delta::Int64)::Matrix{Float64}
     """
     Noise reduction by using spatial correlation.
-    :param param img: Flattened spectral imaging data
+    :param img: Flattened spectral imaging data
     :param max_cluster_num: Number of clusters
     :param kernel: K_size x K_size (parameter of integrating spatial correlation) matrix of ones
     :param kernel_delta: kernel_delta = K_size x K_size - P_num
