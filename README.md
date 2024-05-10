@@ -21,7 +21,7 @@ Use 'main' function in the '/MakeVoronoiPoints/MakeVoronoiPoints.py' file. The p
 - `offset`(float): Constant sum parameter (Noise parameter).  
 - `generate_num`(int): Number of trials of generating spectrum.  
 - `generate_similarity_limit`(float): Similarity threshold when generating spectra (Note that this is percent point).  
-- `reduce_similarity_limit`(float): Similarity threshold when reducing candidate spectra (Note that this is percent point).  
+- `reduce_similarity_limit`(float): Similarity threshold when reducing candidate spectra by hierarchical clustering (Note that this is percent point).  
 - `path_save`(str): Path of save file (.csv).
 
 <br>
