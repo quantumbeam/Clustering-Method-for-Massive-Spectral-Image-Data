@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 def Generate_and_AddSpectra(spectra, ref, mul, offset, num_max, limit, components_num = 3):
     """
-    Generate candidate spectrum by linear combination and calculating similarity between the spectrum and spectrum already included in the candidate
+    Generate candidate spectrum by linear combination and calculating similarity between the spectrum and spectra which are already included in the candidate
     Then, if the minimum similarity is smaller than the limit, add it to the candidate.
     :param spectra: Candidate spectra
     :param ref: Reference counts(Noise parameter for calculating Eq.(3))
