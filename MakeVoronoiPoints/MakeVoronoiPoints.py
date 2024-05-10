@@ -12,7 +12,7 @@ def main(spectra, ref, mul, offset, generate_num, generate_similarity_limit, red
     :param offset: Constant sum parameter(Noise parameter)
     :param generate_num: Number of trials to generate spectrum
     :param generate_similarity_limit: Similarity threshold when generating spectra (Note that this is percent point)
-    :param reduce_similarity_limit: Similarity threshold when reducing candidate spectra (Note that this is percent point)
+    :param reduce_similarity_limit: Similarity threshold when reducing candidate spectra by hierarchical clustering (Note that this is percent point)
     :param path_save: path of save file(.csv)
     """
 
