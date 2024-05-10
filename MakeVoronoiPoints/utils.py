@@ -54,7 +54,7 @@ def Standardization(spectrum):
 
 def Calc_distribution(spectrum_1, spectrum_2, ref, mul, offset):
     """
-    Calculating the mean and standard deviation of the distribution defined in Eq.(5) for approximating Eq.(1) of the paper.
+    Calculating the mean and standard deviation of the distribution defined in Eq.(5) for approximating Eq.(1) in the paper.
     :param ref: Reference counts(Noise parameter for calculating Eq.(3))
     :param mul: Constant multiplication parameter(Noise parameter)
     :param offset: Constant sum parameter(Noise parameter)
