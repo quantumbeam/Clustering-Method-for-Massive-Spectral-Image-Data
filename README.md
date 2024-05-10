@@ -27,8 +27,8 @@ Use 'main' function in the '/MakeVoronoiPoints/MakeVoronoiPoints.py' file. The p
 <br>
 
 ## How to perform clustering
-Use 'Clustering_by_VoronoiTessellation' function in the '/Clustering/Clustering_VoronoiTessellation.jl' file. This function performs until removing isolation points by using spatial correlation.  
-Therefore, use 'main' function in the '/Clustering/Dilate_each_cluster.py' file for complementing the removing points.   
+Use 'Clustering_by_VoronoiTessellation' function in the '/Clustering/Clustering_VoronoiTessellation.jl' file. This function performs clustering and removing isolation points by using spatial correlation.  
+Then, use 'main' function in the '/Clustering/Dilate_each_cluster.py' file for complementing the removing points.   
 The parameters are as follows:  
 <br>
 **Clustering by VoronoiTessellation**
