@@ -31,7 +31,7 @@ def main(spectra, ref, mul, offset, generate_num, generate_similarity_limit, red
 if __name__ == "__main__":
     spectra = pd.read_csv("../Data/VoronoiPoints/NIMS_Standard_mixed_20221018.csv").values[:, 1:]
 
-    generate_num = 1
+    generate_num = 10000
     generate_similarity_limit = 2.326 #Percent point of 0.01
     reduce_similarity_limit = 3.719 #Percent point of 0.0001
 
