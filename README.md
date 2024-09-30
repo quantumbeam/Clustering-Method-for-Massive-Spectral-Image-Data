@@ -1,5 +1,21 @@
-# Rational partitioning of spectral feature space for effective clustering of massive spectral image data
+## Rational partitioning of spectral feature space for effective clustering of massive spectral image data
+Yusei Ito, Yasuo Takeichi, Hideitsu Hino and Kanta Ono
 
+Scientific Reports 14, 22549 (2024). https://doi.org/10.1038/s41598-024-74016-0
+
+## Citation
+```text
+@article{10.1038/s41598-024-74016-0, 
+year = {2024}, 
+title = {Rational partitioning of spectral feature space for effective clustering of massive spectral image data}, 
+author = {Ito, Yusei and Takeichi, Yasuo and Hino, Hideitsu and Ono, Kanta}, 
+journal = {Scientific Reports}, 
+doi = {10.1038/s41598-024-74016-0}, 
+pages = {22549}, 
+number = {1}, 
+volume = {14}
+}
+```
 
 ## Steps of our clustering method
 1. Preparing Voronoi diagram site points.  
