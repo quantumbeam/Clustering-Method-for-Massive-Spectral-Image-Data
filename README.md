@@ -63,7 +63,7 @@ The parameters are as follows:
 
 ## Test code
 ### Preparing test data
-Download test data: [[GoogleDrive](https://drive.google.com/drive/folders/1TEAbpo5oTvh54pXha75B332jw5ADN_6o?usp=drive_link)] in the same folder.
+Download test data: [[figshare](https://figshare.com/articles/dataset/Rational_partitioning_of_spectral_feature_space_for_effective_clustering_of_massive_spectral_image_data/27175251)] in the same folder.
 
 ### Preparing Voronoi diagram site points
 ```bash
